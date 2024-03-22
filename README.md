@@ -20,3 +20,13 @@
 - During the application of _Obfuscation Policy 1_, the attacker's attack attempt gets detected (red circles).
 
 - [CAN traffic](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/tree/main/CANlog) from our real-time setup.
+
+- ## Effect of ```AAwSOS``` on A calibrated Vehicle model Adaptive Cruise Controller : Delayed Bus-off + Detection
+
+    ![](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
+
+
+  
+
+
+  
