@@ -1,4 +1,4 @@
-# Hide-n-Seek-RTAS
+# Hide-n-Seek
 - ## Results for 500kbps baud rate in the presence of High CAN traffic load
   ### ASP Experiment on #C0
     ![](500Kbps/high_bus_load/HighC0_Hbr.png)
