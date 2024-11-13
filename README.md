@@ -1,4 +1,8 @@
 # Hide-n-Seek
+- ## [Effect of ```AAwSOS``` on A calibrated Vehicle model Adaptive Cruise Controller : Delayed Bus-off + Detection](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
+
+    [](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
+  
 - ## Results for 500kbps baud rate in the presence of High CAN traffic load
   ### ASP Experiment on #C0
     ![](500Kbps/high_bus_load/HighC0_Hbr.png)
@@ -21,9 +25,6 @@
 
 - [CAN traffic](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/tree/main/CANlog) from our real-time setup.
 
-- ## [Effect of ```AAwSOS``` on A calibrated Vehicle model Adaptive Cruise Controller : Delayed Bus-off + Detection](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
-
-    [](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
 
 
   
