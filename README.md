@@ -1,5 +1,5 @@
-# Hide-n-Seek
-- ## [Effect of ```ASObS``` on A calibrated Vehicle model Adaptive Cruise Controller : Delayed Bus-off + Detection](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
+# ECU Schedule Optimisation Against CAN SBAs
+- ## [Effect of ```ESOCS``` on A calibrated Vehicle model Adaptive Cruise Controller : Delayed Bus-off + Detection](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
 
     [](https://github.com/Ipsitakoley/Hide-n-Seek-RTAS/assets/6061264/01ce8536-5bec-4287-a48c-ebe783a3a1a2)
   
